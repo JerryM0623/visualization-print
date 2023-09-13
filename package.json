@@ -28,7 +28,8 @@
     },
     "extends": [
       "plugin:vue/essential",
-      "eslint:recommended"
+      "eslint:recommended",
+      "@vue/eslint-config-prettier/skip-formatting"
     ],
     "parserOptions": {
       "parser": "@babel/eslint-parser"
