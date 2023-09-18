@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^2.6.14"
+    "element-ui": "^2.15.14",
+    "normalize.css": "^8.0.1",
+    "vue": "^2.6.14",
+    "vue-drag-resize": "^1.5.4",
+    "vue-print-nb": "^1.7.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
@@ -19,6 +23,8 @@
     "@vue/cli-service": "~5.0.0",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
+    "node-sass": "^9.0.0",
+    "sass-loader": "^13.3.2",
     "vue-template-compiler": "^2.6.14"
   },
   "eslintConfig": {
